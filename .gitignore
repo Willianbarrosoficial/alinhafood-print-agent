@@ -1,0 +1,8 @@
+# Este repositório é PÚBLICO e guarda só o README — os instaladores vão em
+# Releases, nunca em commit. A lista abaixo é a rede de segurança para que
+# um segredo copiado para esta pasta por engano não seja publicado.
+.env*
+*.pfx
+*.p12
+*.pem
+*.key
